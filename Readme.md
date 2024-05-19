@@ -1,6 +1,9 @@
 # Bitcoin CBRC-20 Inscription on Frontend.
 
-This guide provides explaining how to inscribe the CBRC-20 in Frontend using unisat wallet
+This guide provides explaining how to inscribe the CBRC-20 in Frontend using unisat wallet.
+The main repositary is private one so please contact me if you want more details info about this.
+
+Thanks
 
 ## Scripts Description
 
