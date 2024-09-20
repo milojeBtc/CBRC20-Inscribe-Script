@@ -27,7 +27,7 @@ To set up and run this project locally, follow these steps:
    npm install
    ```
 
-4. **Run Scripts**: Use the npm run commands listed above to perform project
+3. **Run Scripts**: Use the npm run commands listed above to perform project
 
 ## Dependencies
 
